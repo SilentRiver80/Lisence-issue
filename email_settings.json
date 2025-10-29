@@ -1,0 +1,15 @@
+{
+  "SMTP_SERVER": "smtp.naver.com",
+  "SMTP_PORT": 587,
+  "IMAP_SERVER": "imap.naver.com",
+  "EMAIL_ADDRESS": "ncbrain_smart@naver.com",
+  "EMAIL_PASSWORD": "1J1GHFQ6TVQ4",
+  "RECEIVING_EMAIL_ADDRESS": "ncbrain.smart@gmail.com",
+  "DEFAULT_COMPANY_NAME": "미라이테크",
+  "DEFAULT_LOCK_CODE": "12352",
+  "DEFAULT_HW_NUMBER": "sdfg234s",
+  "DEFAULT_PRODUCT_NAME": "NCBrain",
+  "DEFAULT_MODULE_NAME": "Mold",
+  "DEFAULT_OPTION_NAME": "2D CAM",
+  "DEFAULT_DESCRIPTION": "설명이나 요청사항을 입력해주세요"
+}
