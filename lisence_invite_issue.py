@@ -518,3 +518,4 @@ root.mainloop()
 
 # pyinstaller --onefile --noconsole --icon=ncb.ico lisence_invite_issue.py
 
+# 1
